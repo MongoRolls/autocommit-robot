@@ -6,4 +6,4 @@
 * [辣椒 auto-commit](https://juejin.cn/post/7253673249159200825)
 * [yaml教程](https://www.ruanyifeng.com/blog/2016/07/yaml.html)
 
-../
+../..
