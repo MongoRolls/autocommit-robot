@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XC0703/autocommit-robot.git"
+    "url": "git+https://github.com/mongorolls/autocommit-robot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/XC0703/autocommit-robot/issues"
+    "url": "https://github.com/mongorolls/autocommit-robot/issues"
   },
-  "homepage": "https://github.com/XC0703/autocommit-robot#readme",
+  "homepage": "https://github.com/mongorolls/autocommit-robot#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
